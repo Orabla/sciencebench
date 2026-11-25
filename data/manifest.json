@@ -1,0 +1,23 @@
+{
+  "seed": 42,
+  "n_tasks": 16,
+  "n_samples": 6102,
+  "tasks": {
+    "csl_classify": 500,
+    "tm": 500,
+    "kf": 223,
+    "p_sto": 500,
+    "pner_en": 100,
+    "pner_cn": 100,
+    "ner_scienceie": 54,
+    "ner_scierc": 75,
+    "kl": 500,
+    "sm": 700,
+    "csl_title": 500,
+    "csl_keyword": 500,
+    "rc": 350,
+    "pmt_zh2en": 500,
+    "p_tk": 500,
+    "pus": 500
+  }
+}
